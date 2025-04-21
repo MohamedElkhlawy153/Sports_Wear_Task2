@@ -1,0 +1,57 @@
+# Category >>
+1-Expand the variety within the Training product group due to its high sales performance.
+2-Focus advertising efforts on Training items as they represent a strong point for the brand.
+3-Investigate the causes behind low sales (e.g., price, design, visibility).
+4-Collect customer feedback via surveys to understand preferences
+
+
+# Gender >>
+1-Expand the variety of unisex products as they show the highest purchase rate.
+2-Emphasize unisex designs in marketing campaigns and incorporate their style into other categories.
+3-Investigate why men’s and kids’ products have lower purchase rates (e.g., design, price, exposure).
+4-Launch targeted campaigns or limited-time promotions to attract more buyers in these segments.
+
+
+
+# Promotions >>
+1-Combine Promo1 (e.g., media advertising) and Promo2 (e.g., coupons or extra benefits) to boost customer engagement and increase purchases.
+2-While combined promotions are effective, it's important to evaluate each promo separately to understand which has the strongest influence on customer behavior.
+
+
+
+# Discount >>
+1-Avoid Over-Discounting, Large discounts may signal low product value or lack of trust.
+2-Instead, use moderate discounts that preserve perceived product quality.
+
+
+
+# Product Group >>
+1-Expand the variety of shoes to meet different customer preferences.
+2-Invest more in advertising campaigns centered around shoes
+3-Investigate the reasons behind low performance (e.g., style, seasonality, price).
+4-Collect customer feedback through surveys to understand what can be improved.
+
+
+
+# Pricing Analysis >>
+1-It is essential to set prices according to the purchasing power of the target segments. Offering flexible pricing or discounts tailored to price-sensitive customers can significantly boost sales and increase product engagement.
+
+
+
+# Style >>
+1-Since the "Regular" style is driving the highest sales, consider focusing marketing efforts and inventory on this style. Offer exclusive features or variations of this style to maintain its popularity, such as limited editions or color options.
+2-The "Slim" style is generating the least sales. To improve this, consider conducting market research to understand why it's less popular.
+
+
+
+# Country Performance >>
+1-Since Australia shows the highest purchase rate, it's a highly active market in terms of buying intent. It's recommended to increase marketing efforts, enhance the customer experience, and offer special deals for repeat customers to raise the average order value.
+2-Germany has the highest total sales, indicating a strong customer base. To maintain this momentum, focus on inventory optimization, loyalty programs to encourage repeat purchases, and highlight the top-performing products.
+3-France records the lowest purchase rate and sales volume, suggesting a need to reassess the market strategy. Consider deeper consumer behavior analysis, adjust pricing or promotions, and tailor marketing campaigns to better suit local culture and preferences.
+
+
+# Size Availability >>
+1-Data shows that when all sizes (XXS, XS, S, M, L, XL, XXL) are available, sales increase significantly. This highlights the importance of meeting the needs of all customer segments. It is recommended to closely monitor inventory and plan restocking efficiently to avoid size shortages.
+2-In certain countries, missing core sizes like XS, S, M, L, and XL leads to noticeable drops in sales. It's advisable to analyze size performance by market to ensure the most in-demand sizes are always available locally.
+
+
